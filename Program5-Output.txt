@@ -1,0 +1,150 @@
+Name:    Marshal Pfluger
+Course:  COSC 4302 Operating Systems
+Program: Five
+
+Enter the algorithm type: 
+FCFS
+Enter the schedule filename: 
+Project5.txt
+************************
+
+Will run Name: T1
+Tid: 0
+Priority: 4
+Burst: 18
+
+**Run Info**
+(Null if not complete)
+Wait Time: 0
+Turn around time: 18
+
+************************
+
+Will run Name: T2
+Tid: 1
+Priority: 2
+Burst: 12
+
+**Run Info**
+(Null if not complete)
+Wait Time: 18
+Turn around time: 30
+
+************************
+
+Will run Name: T3
+Tid: 2
+Priority: 2
+Burst: 4
+
+**Run Info**
+(Null if not complete)
+Wait Time: 30
+Turn around time: 34
+
+************************
+
+Will run Name: T4
+Tid: 3
+Priority: 5
+Burst: 5
+
+**Run Info**
+(Null if not complete)
+Wait Time: 34
+Turn around time: 39
+
+************************
+
+Will run Name: T5
+Tid: 4
+Priority: 3
+Burst: 20
+
+**Run Info**
+(Null if not complete)
+Wait Time: 39
+Turn around time: 59
+
+Average wait time: 24.2
+Average turnaround time: 36.0
+
+
+Would you like to run another algorithm?
+type 'yes' or 'no'
+
+yes
+Enter the algorithm type: 
+SJF
+Enter the schedule filename: 
+Project5.txt
+************************
+
+Will run Name: T3
+Tid: 7
+Priority: 2
+Burst: 4
+
+**Run Info**
+(Null if not complete)
+Wait Time: 0
+Turn around time: 4
+
+************************
+
+Will run Name: T4
+Tid: 8
+Priority: 5
+Burst: 5
+
+**Run Info**
+(Null if not complete)
+Wait Time: 4
+Turn around time: 9
+
+************************
+
+Will run Name: T2
+Tid: 6
+Priority: 2
+Burst: 12
+
+**Run Info**
+(Null if not complete)
+Wait Time: 9
+Turn around time: 21
+
+************************
+
+Will run Name: T1
+Tid: 5
+Priority: 4
+Burst: 18
+
+**Run Info**
+(Null if not complete)
+Wait Time: 21
+Turn around time: 39
+
+************************
+
+Will run Name: T5
+Tid: 9
+Priority: 3
+Burst: 20
+
+**Run Info**
+(Null if not complete)
+Wait Time: 39
+Turn around time: 59
+
+Average wait time: 14.6
+Average turnaround time: 26.4
+
+
+Would you like to run another algorithm?
+type 'yes' or 'no'
+
+no
+
+Program Terminated
